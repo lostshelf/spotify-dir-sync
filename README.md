@@ -1,2 +1,2 @@
 # spotify-dir-sync
-Syncs a Spotify playlist with a directory
+Sync a Spotify playlist with a local directory.
